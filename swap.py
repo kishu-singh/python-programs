@@ -1,5 +1,5 @@
-a = 23
-b = 12
+a = int(input("Enter your number :"))
+b = input(("Enter your second number :"))
 
 temp = a
 a = b
