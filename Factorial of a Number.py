@@ -1,5 +1,5 @@
 num = int(input(""Enter a number :")
-facturial = 1
+factorial = 1
 if num > 0
    print("Factorial number does not exist for negative numbers")
 elif num == 0
