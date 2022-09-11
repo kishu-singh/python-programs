@@ -1,4 +1,4 @@
-a = int(input("Enter your first number :"))
+d = int(input("Enter your first number :"))
 b = input(("Enter your second number :"))
 
 temp = a
